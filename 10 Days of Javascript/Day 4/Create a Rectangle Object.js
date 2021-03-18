@@ -1,6 +1,4 @@
-/*
- * Complete the Rectangle function
- */
+
 function Rectangle(a, b) {
     this.length = a;
     this.width = b;
